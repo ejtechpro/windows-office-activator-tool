@@ -31,4 +31,4 @@ Built with **PySide6** and designed for lightweight activation tasks with an int
 
 ```bash
 git clone https://github.com/ejtechpro/windows-office-activator.git
-cd windows-office-activator
+cd windows-office-activator-tool
