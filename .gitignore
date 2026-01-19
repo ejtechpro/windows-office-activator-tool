@@ -1,0 +1,7 @@
+env
+Activator.spec
+build.bat
+grnerate_icon.py
+dist
+build
+__pycache__
