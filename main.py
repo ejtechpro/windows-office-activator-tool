@@ -4,7 +4,7 @@ from PySide6.QtWidgets import (
     QApplication, QMainWindow, QWidget, QLabel, QHBoxLayout, QVBoxLayout,
     QTextEdit, QPushButton, QSpacerItem, QSizePolicy
 )
-from PySide6.QtGui import QIcon, QMouseEvent
+from PySide6.QtGui import QIcon, QMouseEvent, QTextCursor
 from PySide6.QtCore import Qt, QPoint
 
 from resource_path import resource_path
@@ -159,7 +159,7 @@ class MainWindow(QMainWindow):
     
     def scrollToView(self):
         cursor = self.body.textCursor()
-        cursor.movePosition(cursor.End)
+        cursor.movePosition(QTextCursor.End)
         self.body.setTextCursor(cursor)
         
     
