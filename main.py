@@ -66,7 +66,7 @@ class MainWindow(QMainWindow):
             "─────────────────────────────\n"
             "   Application Information   \n"
             "─────────────────────────────\n"
-            f"Version     :  1.0\n"
+            f"Version     :  1.1.0\n"
             f"Release     :  August 10, 2025\n"
             f"Compiler    :  Delphi 7.3 Lite\n"
             f"Developer   :  ejtechpro\n"

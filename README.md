@@ -2,14 +2,14 @@
 
 ![App Icon](assets/icon.ico)
 
-A simple GUI tool to activate **Windows (> 8)** and **Microsoft Office** products.  
+A simple GUI tool to activate **Windows (8,10,11)** and **Microsoft Office** products.  
 Built with **PySide6** and designed for lightweight activation tasks with an intuitive interface.
 
 ---
 
 ## Features
 
-- Activates Windows 8 and above.
+- Activates Windows 8,10,11 and above.
 - Activates Microsoft Office.
 - Internet connection monitoring.
 - Custom GUI with draggable frameless window.
